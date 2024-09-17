@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "fit5032-efolio-25cb6",
+    "efolio": "fit5032-efolio-25cb6"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
