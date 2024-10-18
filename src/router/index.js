@@ -57,7 +57,7 @@ const routes = [
 ]
 
 const router = createRouter({
-  history: createWebHistory('/Week9/'),
+  history: createWebHistory('/'),
   routes
 });
 
